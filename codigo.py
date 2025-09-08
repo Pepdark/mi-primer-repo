@@ -1,3 +1,3 @@
 nombre = "Stalin"
 apellidos = "Vintimilla"
-print("Hola" + " " + nombre + " " + apellidos)
+print("Hola" + "soy " + nombre + " " + apellidos)
